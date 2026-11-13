@@ -1,8 +1,3 @@
 from django.shortcuts import render
 
-
-def hi(request) :
-
-
-
-    return render(request, 'front.html')
+# Create your views here.
